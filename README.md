@@ -4,3 +4,4 @@
 
 
 > Visualisation : http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/
+> Viz : https://onepagelove.com/tag/data-visualisation
