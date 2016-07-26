@@ -19,4 +19,7 @@
 
 > http://www.numericalexpert.com/blog/flask_refs/
 
+> https://pythonspot.com/en/flask-json-and-the-google-charts-api/
+
+
 
