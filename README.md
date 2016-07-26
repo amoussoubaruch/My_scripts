@@ -7,4 +7,5 @@
 > Viz : https://onepagelove.com/tag/data-visualisation
 > http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/
 > http://www.rsyslog.com/
+> Vizu : http://christopheviau.com/d3list/
 
