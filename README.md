@@ -23,4 +23,7 @@
 
 > https://github.com/pallets/flask/tree/master/examples/flaskr
 
+> https://github.com/kirsle/flask-multi-upload/blob/master/uploadr/templates/index.html
+
+
 
