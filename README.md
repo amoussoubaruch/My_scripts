@@ -25,5 +25,8 @@
 
 > https://github.com/kirsle/flask-multi-upload/blob/master/uploadr/templates/index.html
 
+> https://github.com/ngoduykhanh/flask-file-uploader/blob/master/templates/index.html
+
+
 
 
