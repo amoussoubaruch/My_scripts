@@ -27,6 +27,6 @@
 
 > https://github.com/ngoduykhanh/flask-file-uploader/blob/master/templates/index.html
 
-
+> String : https://learnpythonthehardway.org/book/ex5.html
 
 
