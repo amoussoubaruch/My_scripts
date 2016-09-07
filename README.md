@@ -29,4 +29,6 @@
 
 > String : https://learnpythonthehardway.org/book/ex5.html
 
+> https://insights.sei.cmu.edu/sei_blog/2011/07/improving-data-quality-through-anomaly-detection.html
+
 
